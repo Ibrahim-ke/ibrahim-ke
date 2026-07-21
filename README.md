@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+```bash
+- Python | Javascript
+- Backend Developer | Cybersec Enthusiast
+```
+
 <!--
 **Ibrahim-ke/ibrahim-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
