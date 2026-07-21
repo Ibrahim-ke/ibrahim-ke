@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ```bash
-- Python | Javascript
+- Python | Javascript | AWS |
 - Backend Developer | Cybersec Enthusiast
 ```
 
